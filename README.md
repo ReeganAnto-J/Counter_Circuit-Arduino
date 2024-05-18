@@ -20,6 +20,6 @@ This project was made with no other references and just to test my understanding
 - Optimization
 
 # Circuit Diagram:
-![CircuitDiagram](CounterCircuit_Diagram.jpg)
+![CircuitDiagram](CounterCircuit_Diagram.png)
 
 Feel free to try this console app by downloading the x86 or the x64 executable file I have uploaded.
